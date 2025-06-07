@@ -1,3 +1,3 @@
 This is a Document Chatbot, a tool that lets you interact with your own text documents using a natural conversation. Once you feed your documents, it processes them to create a searchable index. Then, an advanced AI model, running locally on your computer (optimized for Macs for the moment), uses this index to find relevant information in our documents and provide direct answers to our questions. It's designed to give us quick insights from our text files without manual searching.
 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/23c5cc68-dfe6-41e0-8030-58b510338534" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/075d97d4-13b7-4cff-a35c-ddb242030f0b" />
