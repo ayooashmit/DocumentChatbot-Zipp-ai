@@ -10,7 +10,7 @@ if "chat_engine" not in st.session_state:
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-st.title("The AI powered Chatbot")
+st.title("Document Chatbot")
 st.write("Upload or select documents to chat with")
 
 document_dir = "documents"
